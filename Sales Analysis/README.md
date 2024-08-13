@@ -1,6 +1,6 @@
-#Superstore Sales Analysis Dashboard
+Superstore Sales Analysis Dashboard
 
-##Project Overview
+Project Overview
 
 Analyzing sales data is vital for any business aiming to optimize performance and forecast future trends. This project presents a robust sales analysis using Python for data preprocessing and visualization, alongside a Power BI dashboard for interactive analysis and forecasting. The combined approach provides a deep dive into sales trends, profit margins, customer behavior, and regional performance.
 
