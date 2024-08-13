@@ -1,5 +1,5 @@
 # Text Analysis
-##Project Overview
+Project Overview
 In today's digital age, extracting meaningful insights from vast amounts of unstructured text data is crucial. This project showcases an end-to-end text analysis pipeline that leverages Python, NLTK, and various preprocessing techniques to analyze web content. The focus is on cleaning the text, calculating sentiment scores, and deriving complex linguistic metrics, providing a thorough understanding of the textual data's emotional tone and readability.
 
 ##Key Features
